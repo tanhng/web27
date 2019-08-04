@@ -1,0 +1,135 @@
+
+ * {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    background-color: darkred;
+    flex-direction: column;
+    min-height: 100vh;
+}    
+
+
+.hang1{
+ min-height: 50vh;
+ width: 100%;
+ background-image: url(./suicidesilencemayhemfest2011edit2.jpg) ;
+ background-repeat: no-repeat;
+ padding: 100px;
+ background-color: black;
+}
+
+.label1{
+    text-transform: uppercase;
+    font-size: 200%;
+    color: white;
+    background-color: rgba(20,20,20,0.8 )
+}
+
+#note{
+    color: black;
+
+}
+.hang2{
+margin:20px;
+min-height: 40vh;
+/* background-color: brown; */
+}
+
+.main{
+    min-height: 50vh;
+    display: flex;
+}
+
+.row1{
+    width:30%;
+    padding: 50px;
+    /* background-color:black; */
+}
+
+.row2{
+    width:30%;
+    padding:50px;
+    /* background-color: beige; */
+}
+
+.anh1{
+    background-image: url('./82f3234333184581811c9ff09e45895c.jpg');
+    height:200px;
+    width: 200px;
+    padding: 80px;
+    /* background-repeat: no-repeat; */
+}
+
+.anh2{
+    background-image: url('./HORRENDOUS_Frame_Riddick_2014-3489.jpg');
+    height:200px;
+    width: 200px;
+    padding: 80px;
+    /* background-repeat: no-repeat; */
+}
+
+.anh3{
+    background-image: url('./news_image_file_710.jpg');
+    height:200px;
+    width: 200px;
+    padding: 80px;
+    /* background-repeat: no-repeat; */
+}
+
+.anh4{
+    background-image: url('./4a3b10109a8091ada91312371f261d6bb0d37d39_hq.jpg');
+    height:200px;
+    width: 200px;
+    padding: 80px;
+    /* background-repeat: no-repeat; */
+}
+
+
+
+.ten{
+    color: white;
+    background-color: rgba(20,20,20,0.8 );
+}
+
+
+.row3{
+    width:40%;
+    padding: 50px;
+    /* background-color:black; */
+}
+
+.anh5{
+    background-image: url('./a2fed5f56bd3363e81c3c704136747a6.png');
+    height:420px;
+    width: 420px;
+    padding: 80px;
+    /* background-repeat: no-repeat; */
+}
+
+.hang3{
+    background: darkgray;
+    display: flex;
+    min-height: 40vh;
+}
+
+
+.row31{
+    width:33%;
+    padding:50px;
+}
+
+.row32{
+    width:33%;
+    padding:50px;
+}
+.row33{
+    width:33%;
+    padding:50px;
+}
+
+.dark{
+    color: lightgray;
+}
