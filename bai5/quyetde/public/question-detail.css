@@ -1,0 +1,15 @@
+.thongtin{
+    text-align: center;
+    min-height: 10vh;
+    background: maroon;
+    width:100%;
+    text-decoration-line: underline;
+}
+
+.test{
+    text-align: center;
+    width:100%;
+    min-height: 10vh;
+    background: maroon;
+    text-decoration-line: underline;
+}
