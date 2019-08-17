@@ -1,0 +1,52 @@
+
+body {
+    background-color: black;
+  }
+  #test1 {
+ color: maroon;
+    text-align:  center;
+}
+#satan {
+    color: maroon;
+   
+}
+
+#satan2 {
+    
+    text-align:  center;
+}
+h4,h2{
+    text-align: center;
+    color: maroon;
+}
+#satan3 {
+ 
+    text-decoration: underline;
+}
+.marron{
+    color:maroon;
+}
+#underLine{
+    color: pink;
+    text-decoration: underline;
+}
+h1{
+    text-transform: uppercase;
+    text-shadow: 1px 1px rgba(255,110,110,0.5);
+}
+#h3{
+    color: black;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+p{
+    color:maroon;
+    text-indent: 40px;
+}
+body{
+    background-image: url(./mWrVCxs.png)
+}
+#div1 {
+    background-color: rgba(177, 161, 161, 0.4)
+}

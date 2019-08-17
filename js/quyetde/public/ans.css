@@ -1,0 +1,42 @@
+.questionContent {
+    color: maroon;
+}
+
+
+.container-fluid{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.chuden {
+    color: black;
+}
+
+
+.searching{
+   text-align: center;
+}
+
+.container-fluid{
+    background-image: url(./67657239_488787501883856_1339014809680609280_o.jpg);
+    min-height: 300vh;
+  
+}
+@media screen and (max-width : 700px)
+{
+    .ahihi{
+        display:none;
+    }
+}
+.hienthi{
+    font-size: 300%;
+    background-color: rgba(255, 100, 100, 0.5)
+}
+
+.chutoto{
+    font-size: 150%;
+}
+
+h2{
+    color: maroon;
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+    color:white;
+    background-image: url(./mWrVCxs.png)
+  }
+  
+  .parent .child2{
+    color: rgba(231, 9, 165, 0.788)
+  }
+  .parent>.child2{
+    text-align: center;
+  }
+
+  h1 {
+    border: solid 2px white;
+    border-radius: 40px;
+text-align: center;
+    color: maroon;
+    font-size: 100px;
+    padding: 20px;
+    display: inline-block;
+    margin: 40px;
+    box-sizing: border-box;
+  }
+
+  p{
+    color: red;
+  }
