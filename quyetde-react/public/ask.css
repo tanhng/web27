@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    background-image: url(./67657239_488787501883856_1339014809680609280_o.jpg);
+    min-height: 200vh;
+}
+.form-container{
+    width:100%;
+    text-align: center;
+margin: 0 auto;
+}
+
+.form-container textarea {
+    width:100%;
+} 
+
+.chuto{background-color: rgba(200,100,100, 0.2);
+    font-size: 300%;
+    color: maroon;
+    width: 80%;
+}
+.chudo{
+    color:maroon;
+    font-size: 200%;
+    background-color: rgba(100,100,100, 0.5)
+}
+.chuden{
+    color: black;
+}
